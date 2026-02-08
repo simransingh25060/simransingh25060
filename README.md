@@ -101,14 +101,6 @@ const simran = {
 
 ---
 
-## 🏆 Contribution Stats
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=simransingh25060&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</p>
-
----
-
 ## 💻 LeetCode Journey
 
 <p align="center">
