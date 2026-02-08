@@ -101,16 +101,6 @@ const simran = {
 
 ---
 
-## 💻 LeetCode Journey
-
-<p align="center">
-  <a href="https://leetcode.com/u/simransingh25060" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/simransingh25060?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
-  </a>
-</p>
-
----
-
 ## 🎨 My Projects
 
 <div align="center">
