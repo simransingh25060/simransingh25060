@@ -185,6 +185,4 @@ const simran = {
   💫 Thank you for visiting! Let's build something amazing together! 
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=simransingh25060&label=Profile%20Views&color=FF6B9D&style=for-the-badge" alt="Profile Views" />
-</p>
+
